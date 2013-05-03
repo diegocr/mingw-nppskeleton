@@ -1,7 +1,7 @@
-Skeleton to create Notepad++ Plugins with MingW 
+Skeleton to create Notepad++ Plugins with MinGW 
 ---------------
 
-This is a simple skeleton to easily build Unicode Notepad++ PlugIns using the MingW Compiler (aka, GCC for Windows)
+This is a simple skeleton to easily build Unicode Notepad++ PlugIns using the MinGW Compiler (aka, GCC for Windows)
 
 If you are not yet familiar with Notepad++ PlugIns development don't hesitate to take a look at the [official docs](http://notepad-plus-plus.org/contribute/plugin-howto.html). You'll need the ```PluginInterface.h``` header (and companion files) to get started, as included on the [Notepad++ Plugin Template](http://download.tuxfamily.org/nppplugins/NppPluginTemplate/NppPluginTemplate.zip) for VC++
 

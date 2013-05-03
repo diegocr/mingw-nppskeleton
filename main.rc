@@ -72,6 +72,7 @@ BEGIN
             VALUE "OriginalFilename", PROGNAME ".dll\0"
             VALUE "ProductName", PROGNAME
             VALUE "ProductVersion", VERSION_NUMBER_STRING
+            VALUE "SpecialBuild", "UNICODE"
         END
     END
     BLOCK "VarFileInfo"
